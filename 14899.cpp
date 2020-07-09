@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/14899
+
 #include <iostream>
 #include <cmath>
 using namespace std;
