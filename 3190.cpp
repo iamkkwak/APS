@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/3190
+
 #include <iostream>
 #include <cstring>
 using namespace std;
