@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/42890
+
 def solution(relation):
     answer = list()
     for i in range(1, 1 << len(relation[0])): # 조합 생성
